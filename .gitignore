@@ -6,7 +6,6 @@ ENV/
 
 # IDE files
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -63,8 +62,6 @@ profile_default/
 ipython_config.py
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -104,3 +101,5 @@ pids
 *.pid
 *.seed
 *.pid.lock
+config.bat
+node_modules

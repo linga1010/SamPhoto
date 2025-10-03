@@ -1,4 +1,7 @@
 # optimized_app_with_download_and_preview.py
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 import io
 import cv2
